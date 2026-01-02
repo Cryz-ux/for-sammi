@@ -60,9 +60,6 @@ export function Navbar({ onNavigate, currentPage }: NavbarProps) {
                 {item.label}
               </button>
             ))}
-            <button className="px-4 py-2 bg-gradient-to-r from-purple-300 to-pink-300 text-white rounded-lg hover:shadow-lg transition-shadow">
-              Get Started
-            </button>
           </div>
 
           {/* Mobile menu button */}
