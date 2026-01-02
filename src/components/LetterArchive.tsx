@@ -40,7 +40,7 @@ export function LetterArchive() {
     {
       id: 2,
       title: "Pambawi Letter",
-      date: "October 15, 2025",
+      date: "August 30, 2025",
       preview: "The letter I sent you when...",
       color: "from-blue-300 to-purple-300",
       body: (
@@ -59,6 +59,60 @@ export function LetterArchive() {
         </>
       )
     },
+
+    {
+      id: 21,
+      title: "When you got sick and I missed you :(",
+      date: "September 11, 2025",
+      preview: "Hi baby ko!",
+      color: "from-purple-300 to-pink-300",
+      body: (
+        <>
+          Hi baby ko!
+
+I miss you sobra. Antok na kasi ako tas miss kita so I'm writing! ewan ko  nga if magegets mo handwriting ko kasi ang gulo eh. Sorry di talaga ako writer !! I'm a typer remember ! eme dami alam
+
+Anyway, I hope this could be proof that even if we're not talking much, ikaw pa rin talaga nasa isip ko. Na no matter where I am, what I'm doing, who I'm with, you're always on my mind; and ikaw lang talaga gusto ko. Wag mo 'ko ipamigay please !! I only want you !!
+
+
+Hay, sobrang miss talaga kita. Boses mo, tawa mo, kadaldal natin, ANG OA KALA MO TLG BA. Okay, anyway, I hope you'll feel better na soon. it sucks na I can't do much from here.
+
+Always thinking of you, Cryz mo. {' '}
+          <a
+            href="https://docs.google.com/document/d/1ZY32gDybIMvQik9z_RLrTOKDxFgv6ejUeVbCbt8v1uM/edit?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-purple-500 underline"
+          >
+           <u>here</u>
+          </a>
+          .
+        </>
+      )
+    },
+
+    {
+      id: 22,
+      title: "Always thinking of you",
+      date: "September 11, 2025",
+      preview: "This letter...",
+      color: "from-purple-300 to-pink-300",
+      body: (
+        <>
+          This letter; inamin ko na I was slowly falling for you. I noticed kasi I was always thinking of you. Hindi complete yung araw ko if di pa kita nakausap. Ngayon, here we are. {' '}
+          <a
+            href="https://docs.google.com/document/d/1miq4hPlKF4930Rd4xh4TUAvlMW0PUyAsCb9uFvETzlo/edit?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-purple-500 underline"
+          >
+           <u>here</u>.
+          </a>
+          .
+        </>
+      )
+    },
+    
     {
       id: 3,
       title: "If only you can see yourself through my eyes",
@@ -77,6 +131,54 @@ export function LetterArchive() {
             aria-label="Open just because link in new tab"
           >
             <u>here</u>
+          </a>
+          .
+        </>
+      )
+    },
+
+    {
+      id: 23,
+      title: "NOT Deja Vu",
+      date: "September 17, 2025",
+      preview: "Hi baby! I'm in class syempre...",
+      color: "from-purple-300 to-pink-300",
+      body: (
+        <>
+          Hi baby!
+
+I'm in class syempre hehe. Alam mo nag lip balm na ako today, proud kaba sakin HAHAHA. Parang napanaginipan ko yung nangyari sakin kanina. Nagclear kasi ako ng storage tas dumaan mga picture mo dun sa photos. I remember talaga parang I dreamt of it na. like, nakatingin ako sa pictures mo tapos nandito ako sa classroom, partida bago 'tong classroom ah! Ngayon lang natapos yung renovation, ginamit na nami agad, so it's not Deja Vu. So wtf.
+ {' '}
+          <a
+            href="https://docs.google.com/document/d/1cMbLpUcl7Dd6_kfEBykTni5a3CktNmolWd_Y1Ar7vo0/edit?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-purple-500 underline"
+          >
+           <u>here</u>.
+          </a>
+          .
+        </>
+      )
+    },
+
+    {
+      id: 20,
+      title: "1000 words are not enough",
+      date: "September 22, 2025",
+      preview: "When I made you this...",
+      color: "from-purple-300 to-pink-300",
+      body: (
+        <>
+          When I made you this, I didn't only take you on sa challenge na i'll make you a letter na 1000 words, pero all I had in mind was you; and how much I wanted to tell you all the things I did in this letter.
+          1000 words are truly not enough to describe how much i feel for you. i love you baby. {' '}
+          <a
+            href="https://docs.google.com/document/d/1B6AzJIW_X4VrQfnZlIlrmxZgZD20Syy7x9OP-FbpsYI/edit?tab=t.0"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-purple-500 underline"
+          >
+           <u>here</u>.
           </a>
           .
         </>
@@ -399,6 +501,8 @@ alam mo i enjoy the song so high school din ni taylor and naenjoy ko na yun ever
         </>
       )
     },
+
+    
 
   ];
 

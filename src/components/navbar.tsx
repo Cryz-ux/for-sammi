@@ -61,7 +61,6 @@ export function Navbar({ onNavigate, currentPage }: NavbarProps) {
               </button>
             ))}
           </div>
-
           {/* Mobile menu button */}
           <button
             onClick={() => setIsMenuOpen(!isMenuOpen)}
