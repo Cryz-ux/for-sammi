@@ -86,21 +86,21 @@ export function LandingPage({ onNavigate }: { onNavigate: (page: "home" | "game"
               </p>
               <button
                 onClick={() => onNavigate("letterArchive")}
-                className="px-8 py-4 bg-white text-purple-400 rounded-lg hover:shadow-lg transition-all hover:scale-105"
+                className="px-8 py-4 bg-white text-purple-400 rounded-lg hover:shadow-lg transition-all hover:scale-105" style={{marginLeft: "1rem", marginTop: "1rem"}}
               >
                 Letter Archive
               </button>
               
               <button
                 onClick={() => onNavigate("game")}
-                className="px-8 py-4 bg-white text-purple-400 rounded-lg hover:shadow-lg transition-all hover:scale-105" style={{ marginLeft: "1rem" }}
+                className="px-8 py-4 bg-white text-purple-400 rounded-lg hover:shadow-lg transition-all hover:scale-105" style={{ marginLeft: "1rem", marginTop: "1rem" }}
               >
                 Daily Reminder  
               </button>
 
               <button
                 onClick={() => onNavigate("reasons")}
-                className="px-8 py-4 bg-white text-purple-400 rounded-lg hover:shadow-lg transition-all hover:scale-105" style={{ marginLeft: "1rem" }}
+                className="px-8 py-4 bg-white text-purple-400 rounded-lg hover:shadow-lg transition-all hover:scale-105" style={{ marginLeft: "1rem", marginTop: "1rem" }}
               >
                 Reasons why ily
               </button>
